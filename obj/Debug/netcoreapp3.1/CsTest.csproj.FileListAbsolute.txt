@@ -1,0 +1,12 @@
+/Users/yamadayusuke/Desktop/CsTest/CsTest/bin/Debug/netcoreapp3.1/CsTest.deps.json
+/Users/yamadayusuke/Desktop/CsTest/CsTest/bin/Debug/netcoreapp3.1/CsTest.runtimeconfig.json
+/Users/yamadayusuke/Desktop/CsTest/CsTest/bin/Debug/netcoreapp3.1/CsTest.runtimeconfig.dev.json
+/Users/yamadayusuke/Desktop/CsTest/CsTest/bin/Debug/netcoreapp3.1/CsTest.dll
+/Users/yamadayusuke/Desktop/CsTest/CsTest/bin/Debug/netcoreapp3.1/CsTest.pdb
+/Users/yamadayusuke/Desktop/CsTest/CsTest/obj/Debug/netcoreapp3.1/CsTest.csprojAssemblyReference.cache
+/Users/yamadayusuke/Desktop/CsTest/CsTest/obj/Debug/netcoreapp3.1/CsTest.csproj.CoreCompileInputs.cache
+/Users/yamadayusuke/Desktop/CsTest/CsTest/obj/Debug/netcoreapp3.1/CsTest.AssemblyInfoInputs.cache
+/Users/yamadayusuke/Desktop/CsTest/CsTest/obj/Debug/netcoreapp3.1/CsTest.AssemblyInfo.cs
+/Users/yamadayusuke/Desktop/CsTest/CsTest/obj/Debug/netcoreapp3.1/CsTest.dll
+/Users/yamadayusuke/Desktop/CsTest/CsTest/obj/Debug/netcoreapp3.1/CsTest.pdb
+/Users/yamadayusuke/Desktop/CsTest/CsTest/obj/Debug/netcoreapp3.1/CsTest.genruntimeconfig.cache
